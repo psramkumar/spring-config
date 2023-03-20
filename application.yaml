@@ -1,0 +1,4 @@
+common:
+  application:
+    for-all:
+      services: "goes-here"
