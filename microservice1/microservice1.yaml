@@ -1,0 +1,3 @@
+allconfig:
+  specificto: 
+    microservice1: "goes-here"
